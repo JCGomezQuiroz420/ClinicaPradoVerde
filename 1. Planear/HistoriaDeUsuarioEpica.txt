@@ -1,0 +1,32 @@
+Historia de Usuario Epica
+
+1. Nombre del proyecto: Clinica Prado Verde
+
+2. Proceso: Agendamiento de citas medicas
+
+3. Actores: Usuario - Asesor
+
+4. Producto/Servicio: Agendar citas
+
+5. Escenario actual: Los usuarios deben ir personalmente a los hospitales o por via telefónica y hablar con el asesor para agendar las citas
+{
+        I. El paciente llama a la clinica y pregunta si hay citas disponibles para x consulta
+
+        II. El asesor asiente e informa que hay citas para x dia / 
+            El asesor informa que no hay citas disponibles (FINALIZA EL PROCESO)
+
+        III. El paciente acepta / 
+             El paciente declina porque no se acomoda a su disponibilidad (FINALIZA EL PROCESO)
+
+        IV. El asesor da el precio y pide confirmación de la cita
+
+        V. El paciente confirma y se genera la cita
+}
+6. Escenario objetivo: Los usuarios acceden a una plataforma virtual que les permite ver los horarios disponibles para agendar una cita,
+                       mostrando tambiern la sede y el medico con el que se va a realizar la consulta.
+
+7. Problematica: Los usuarios y asesores están utilizando más tiempo del necesario, generando que a veces se estanque el sistema e incluso este puede caer
+                 y quedar inhabilitado por el exceso de llamadas o personas en la sucursal fisica.
+
+8. Solucion: Un sistema de información transaccional al que se accede por medio de una plataforma virtual,
+             que permita ver que horarios se encuentran disponibles en tiempo real para poder agendar una cita.
