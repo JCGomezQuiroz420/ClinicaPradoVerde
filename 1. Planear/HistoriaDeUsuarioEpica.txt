@@ -4,11 +4,18 @@ Historia de Usuario Epica
 
 2. Proceso: Agendamiento de citas medicas
 
-3. Actores: Usuario - Asesor
+3. Mision(Ahora): La clinica Prado Verde brinda servicios medicos y gestiona las diferentes citas medicas
+                  que los pacientes agendan por via telefonica.
 
-4. Producto/Servicio: Agendar citas
+4. Vision(Futuro): La clinica Prado Verde seguirá brindando servicios medicos, gestionando las citas agendadas
+                   por los pacientes desde el sistema de informacion transaccional, accediendo a las bases de datos
+                   del sistema para la correcta gestion de las mismas.
 
-5. Escenario actual: Los usuarios deben ir personalmente a los hospitales o por via telefónica y hablar con el asesor para agendar las citas
+5. Actores: Usuario - Asesor
+
+6. Producto/Servicio: Agendar citas
+
+7. Escenario actual: Los usuarios deben ir personalmente a los hospitales o por via telefónica y hablar con el asesor para agendar las citas
 {
         I. El paciente llama a la clinica y pregunta si hay citas disponibles para x consulta
 
@@ -22,11 +29,21 @@ Historia de Usuario Epica
 
         V. El paciente confirma y se genera la cita
 }
-6. Escenario objetivo: Los usuarios acceden a una plataforma virtual que les permite ver los horarios disponibles para agendar una cita,
+8. Escenario objetivo: Los usuarios acceden a una plataforma virtual que les permite ver los horarios disponibles para agendar una cita,
                        mostrando tambiern la sede y el medico con el que se va a realizar la consulta.
 
-7. Problematica: Los usuarios y asesores están utilizando más tiempo del necesario, generando que a veces se estanque el sistema e incluso este puede caer
+9. Problematica: Los usuarios y asesores están utilizando más tiempo del necesario, generando que a veces se estanque el sistema e incluso este puede caer
                  y quedar inhabilitado por el exceso de llamadas o personas en la sucursal fisica.
 
-8. Solucion: Un sistema de información transaccional al que se accede por medio de una plataforma virtual,
+10. Solucion: Un sistema de información transaccional al que se accede por medio de una plataforma virtual,
              que permita ver que horarios se encuentran disponibles en tiempo real para poder agendar una cita.
+
+11. Requerimiento: 
+
+12. Objetos de valor:
+
+13. Entidades de valor:
+
+14. Atributos de calidad:
+
+15. Valores significativos:
